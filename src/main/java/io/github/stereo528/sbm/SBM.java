@@ -1,8 +1,8 @@
-package io.github.stereo528.pbm;
+package io.github.stereo528.sbm;
 
 import net.fabricmc.api.ModInitializer;
 
-public class PBM implements ModInitializer {
+public class SBM implements ModInitializer {
     @Override
     public void onInitialize() {
 
