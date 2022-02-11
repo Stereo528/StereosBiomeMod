@@ -3,10 +3,10 @@
   "id": "sbm",
   "version": "${version}",
   "name": "SBM",
-  "description": "",
-  "authors": [],
+  "description": "Vanilla Style Biome Mod",
+  "authors": ["Stereo528"],
   "contact": {},
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "icon": "assets/sbm/icon.png",
   "environment": "*",
   "entrypoints": {
