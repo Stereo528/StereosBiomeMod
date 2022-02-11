@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "SBM",
+  "version": "${version}",
+  "name": "SBM",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/SBM/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.stereo528.pbm.client.PBMClient"
+    ],
+    "main": [
+      "io.github.stereo528.pbm.PBM"
+    ]
+  },
+  "mixins": [
+    "SBM.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.1",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}
