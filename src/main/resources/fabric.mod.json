@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "sbm",
   "version": "${version}",
-  "name": "SBM",
-  "description": "Vanilla Style Biome Mod",
+  "name": "Stereo's Biome Mod",
+  "description": "Vanilla Style Biome Mod.\nAdds blocks, biomes, features, and structures that feel like they fit the vanilla theme.",
   "authors": ["Stereo528"],
   "contact": {},
   "license": "BSD-3-Clause",
@@ -21,7 +21,7 @@
     "sbm.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.13.1",
+    "fabricloader": ">=0.13.2",
     "fabric": "*",
     "minecraft": "1.18.1"
   }
